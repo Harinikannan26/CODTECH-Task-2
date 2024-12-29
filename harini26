@@ -1,0 +1,52 @@
+Name: HARINI I K
+Company: CODTECH IT SOLUTIONS
+ID: CT12EXE
+Domain: PYTHON PROGRAMMING
+Durations: DEC 20TH 2024 TO FEB 20TH 2025
+Mentor: SRAVANI GOUNI
+
+## Project Overview:
+Student Grade Tracker
+This project is a Python-based Student Grade Tracker designed to manage and track the grades of students effectively. It is intended to streamline the process of recording, updating, and analyzing student performance in an educational setting. The project also serves as an educational demonstration of Python programming skills.
+
+## Features
+Add Student Records: 
+Input student details, including name, ID, and grades.
+Update Grades: 
+Modify existing grades for a student.
+View Records: 
+Display a comprehensive list of student records.
+Calculate Average: 
+Compute and display the average grades for a student.
+Search Functionality: 
+Find specific student records by ID or name.
+Delete Records: 
+Remove a student's record from the system.
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Harinikannan26/CODTECH-Task-2.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd CODTECH-Task-2
+   ```
+3. Install any required dependencies (if applicable).
+
+## Code Structure
+The project follows a modular structure with the following key functions:
+`add_student()`: Adds a new student record to the tracker.
+`update_grades()`: Updates the grades for an existing student.
+`view_records()`: Displays all student records in a tabular format.
+`calculate_average()`: Computes the average grades for a student.
+`search_student()`: Searches for a student by name or ID.
+`delete_student()`: Removes a student's record from the system.
+
+## Contributing
+Contributions are welcome! If you have ideas to improve the system or fix issues, feel free to open a pull request or raise an issue in the repository.
+
+## Acknowledgments
+This project is part of CODTECH Task 2.
+Thanks to all contributors and users for their feedback and support.
+
